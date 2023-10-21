@@ -1,6 +1,6 @@
-![logo pb wi](https://pb.edu.pl/siw/wp-content/uploads/sites/101/2023/05/logo-WI-PB-PL-kolor-bialy-na-czarnym-tle.jpg)
-
 ![baner](https://github.com/Inzynieria-Oprogramowania-PB/.github/assets/62174194/8688309f-533c-4dee-bce0-44969f152539)
+
+![logo pb wi](https://pb.edu.pl/siw/wp-content/uploads/sites/101/2023/05/logo-WI-PB-wersja-pelna-kolor-czarny-zoom-2.webp)
 
 &emsp;Koło Naukowe Inżynierii Oprogramowania skupia się na szerokim zakresie zagadnień związanych z projektowaniem, rozwijaniem, testowaniem i utrzymywaniem oprogramowania.
 
